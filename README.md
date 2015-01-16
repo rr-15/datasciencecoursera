@@ -1,2 +1,2 @@
-# datasciencecoursera
-Course Project Repository 
+# Datascience Repo
+Repository for Course Project.  
